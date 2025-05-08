@@ -1,0 +1,11 @@
+tensorflow==2.18.0
+numpy
+pandas
+scikit-learn
+streamlit
+plotly
+openrouteservice
+folium
+joblib
+streamlit_folium
+pickle-mixin==1.0.2
